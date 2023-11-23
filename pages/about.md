@@ -4,13 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
+I'm Muktakantha Azad Ramnath Das. 
+This is my creative & expressive frontier for my views. 
 
-You can find more information in [Jekyll Paper][jekyll-paper] or [Jekyll Paper for Github][jekyll-paper-github]. If you have any questions or suggestions, you can contact me in [Jekyll Paper Issues][jekyll-paper-issues], [Jekyll Paper for Github Issues][jekyll-paper-github-issues] or send email to [me](mailto:i@ghosind.com). 
+My name owes to the personalities & cultures that shaped my outlook towards life. Muktakantha, the title of the website & my first name is a Samskrit honorific or title which means, 'the one with the free voice'. Azad pays homage to the brave Chandrasekhar Azad who fought for his own principles & hailed a martyr. Ramnath pays respect to Ramnath Goenka, founder & editor of The Indian Express; he set a groundbreaking example of powerful & fearless journalism amidst political lobbying. Finally, Das pays a tribute to the author Manoj Das who style of writing & story-telling is one which I consider to be the best.
 
-Wish you enjoying your blog life!
-
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-github]: https://github.com/ghosind/Jekyll-Paper-Github
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
-[jekyll-paper-github-issues]: https://github.com/ghosind/Jekyll-Paper-Github/issues
+For contacting me, write an email to muktakantha [at] proton.me .
