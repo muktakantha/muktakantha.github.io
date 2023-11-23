@@ -5,6 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Words from Muktakantha Azad Ramnath Das
 baseurl: ''
 url: 'https://muktakantha.github.io'
+domain: 'Muktakantha Azad Ramnath Das'
 language: en
 comments: false
 mathjax: true
